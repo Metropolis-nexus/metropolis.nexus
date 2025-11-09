@@ -14,15 +14,16 @@ You agree to use the Services only for lawful purposes and in compliance with al
 
 - Engaging in illegal activities, such as doxxing, scamming, cyberbullying, or making direct threats of violence.
 - Engaging in spamming, unsolicited bulk messaging, or persistent harassment, including continuing unwanted personal, romantic, or sexual advances after receiving explicit notice to cease.
-- Engaging in activities likely to result in DMCA takedown requests.
-- Engaging in activities that may attract undue regulatory or governmental scrutiny, including organizing protests or demonstrations, or expressing wishes of bodily harm toward public figures (even if hyperbolic).
-- Using the Services primarily for pornographic content distribution. This restriction implements compliance with state laws requiring age verification when such content exceeds one-third of platform material. While we cannot measure your exact usage ratio in real-time, we reserve the right to determine, at our sole discretion based on reported content and usage patterns, when this threshold is likely exceeded, and to suspend accounts we reasonably believe violate this standard.
-- Distributing sexual content involving fictional underage characters (i.e., "loli" content). Although this may be permissible under U.S. law, it is prohibited in numerous other jurisdictions where the Services may potentially be hosted in the future.
+- Attempting to compromise another user's personal systems by transmitting malware, exploits, or IP grabber links without their explicit prior consent and knowledge. Sharing malware samples for legitimate security research with clear, explicit warnings about their malicious nature is permitted.
 - Harassing, discriminating against, or shaming individuals based on their personal preferences, characteristics beyond their control, or private lifestyles, including but not limited to slut-shaming, kink-shaming, or discrimination based on race, gender, sexual orientation, religion, or disability.
 - Engaging in defamatory conduct, including knowingly making false, malicious, or libelous accusations against others with intent to harm their reputation, such as unsubstantiated claims of racism, bigotry, anti-Semitism, or similar serious misconduct.
+- Using the Services primarily for pornographic content distribution. This restriction implements compliance with state laws requiring age verification when such content exceeds one-third of platform material. While we cannot measure your exact usage ratio in real-time, we reserve the right to determine, at our sole discretion based on reported content and usage patterns, when this threshold is likely exceeded, and to suspend accounts we reasonably believe violate this standard.
+- Distributing sexual material involving fictional underage characters (i.e., "loli" content). Although this may be permissible under U.S. law, it is prohibited in numerous other jurisdictions where the Services may potentially be hosted in the future.
+- Engaging in activities likely to result in DMCA takedown requests.
+- Engaging in activities that may attract undue regulatory or governmental scrutiny, including organizing protests or demonstrations, or expressing wishes of bodily harm toward public figures (even if hyperbolic).
 - Advocating for digital ID systems, pornography bans, age verification requirements, chat control legislation, or other government intrusions into private life.
-- Conducting DDoS attacks on the Services. Penetration testing for the purpose of reporting vulnerabilities to us is permitted, but network stress testing is not.
 - Intentionally overburdening or abusing the Services' resources, including but not limited to scraping content without prior consent, using messaging platforms for excessive file storage, or initiating communications such as video calls solely to consume bandwidth without a legitimate purpose.
+- Conducting DDoS attacks on the Services. Penetration testing for the purpose of reporting vulnerabilities to us is permitted, but network stress testing is not.
 
 We reserve the right to monitor usage and take action, including suspension or termination of access, if we believe these Terms have been violated.
 
