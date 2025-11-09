@@ -13,11 +13,13 @@ You must be at least 18 years of age or the age of majority in your jurisdiction
 You agree to use the Services only for lawful purposes and in compliance with all applicable laws, including those of the United States and your local jurisdiction. Prohibited conducts include, but are not limited to:
 
 - Engaging in illegal activities, such as doxxing, scamming, cyberbullying, or making direct threats of violence.
+- Engaging in spamming, unsolicited bulk messaging, or persistent harassment, including continuing unwanted personal, romantic, or sexual advances after receiving explicit notice to cease.
 - Engaging in activities likely to result in DMCA takedown requests.
 - Engaging in activities that may attract undue regulatory or governmental scrutiny, including organizing protests or demonstrations, or expressing wishes of bodily harm toward public figures (even if hyperbolic).
 - Using the Services primarily for the distribution or consumption of pornographic content. This restriction is implemented to comply with applicable laws in certain U.S. states requiring age or identity verification for platforms where such content exceeds one-third of total material. It is not a moral judgment, and we prioritize user privacy by avoiding such requirements.
 - Distributing sexual content involving fictional underage characters (i.e., "loli" content). Although this may be permissible under U.S. law, it is prohibited in numerous other jurisdictions where the Services may potentially be hosted in the future.
 - Harassing, discriminating against, or shaming individuals based on their personal preferences, characteristics beyond their control, or private lifestyles, including but not limited to slut-shaming, kink-shaming, or discrimination based on race, gender, sexual orientation, religion, or disability.
+- Engaging in defamatory conduct, including knowingly making false, malicious, or libelous accusations against others with intent to harm their reputation, such as unsubstantiated claims of racism, bigotry, anti-Semitism, or similar serious misconduct.
 - Advocating for digital ID systems, pornography bans, age verification requirements, chat control legislation, or other government intrusions into private life.
 - Conducting DDoS attacks on the Services. Penetration testing for the purpose of reporting vulnerabilities to us is permitted, but network stress testing is not.
 - Intentionally overburdening or abusing the Services' resources, including but not limited to scraping content without prior consent, using messaging platforms for excessive file storage, or initiating communications such as video calls solely to consume bandwidth without a legitimate purpose.
