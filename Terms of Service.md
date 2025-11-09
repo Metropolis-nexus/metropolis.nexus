@@ -14,7 +14,7 @@ You agree to use the Services only for lawful purposes and in compliance with al
 
 - Engaging in illegal activities, such as doxxing, scamming, cyberbullying, or making direct threats of violence.
 - Engaging in activities likely to result in DMCA takedown requests.
-- Enganging in activities that may attract undue regulatory or governmental scrutiny, including organizing protests or demonstrations, or expressing wishes of bodily harm toward public figures (even if hyperbolic).
+- Engaging in activities that may attract undue regulatory or governmental scrutiny, including organizing protests or demonstrations, or expressing wishes of bodily harm toward public figures (even if hyperbolic).
 - Using the Services primarily for the distribution or consumption of pornographic content. This restriction is implemented to comply with applicable laws in certain U.S. states requiring age or identity verification for platforms where such content exceeds one-third of total material. It is not a moral judgment, and we prioritize user privacy by avoiding such requirements.
 - Distributing sexual content involving fictional underage characters (i.e., "loli" content). Although this may be permissible under U.S. law, it is prohibited in numerous other jurisdictions where the Services may potentially be hosted in the future.
 - Harassing, discriminating against, or shaming individuals based on their personal preferences, characteristics beyond their control, or private lifestyles, including but not limited to slut-shaming, kink-shaming, or discrimination based on race, gender, sexual orientation, religion, or disability.
