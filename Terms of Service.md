@@ -44,5 +44,7 @@ We may update these Terms from time to time. We will notify you of material chan
 We may suspend your access to the Services only for cause, unless due to circumstances beyond our control. We will give you a termination notice if the circumstances is within our control. Upon termination or suspension, your right to use the Services will immediately cease.
 
 ## 9. Miscellaneous
-These Terms constitute the entire agreement between you and Thien (Tommy) Tran regarding the Services. If any provision is found unenforceable, the remaining provisions shall remain in full effect. Our failure to enforce any right or provision shall not constitute a waiver.If you have questions about these Terms, please contact us at tommy@metropolis.nexus.By using Metropolis Nexus, you acknowledge that you have read, understood, and agree to these Terms.
+These Terms constitute the entire agreement between you and Thien (Tommy) Tran regarding the Services. If any provision is found unenforceable, the remaining provisions shall remain in full effect. Our failure to enforce any right or provision shall not constitute a waiver.If you have questions about these Terms, please contact us at tommy@metropolis.nexus.
+
+By using Metropolis Nexus, you acknowledge that you have read, understood, and agree to these Terms.
 
