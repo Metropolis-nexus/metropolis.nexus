@@ -56,7 +56,7 @@ You agree to indemnify, defend, and hold harmless Metropolis Nexus from any clai
 
 These Terms shall be governed by the laws of the United States and the State of Illinois, without regard to conflict of law principles. Any disputes arising from these Terms or the Services shall be resolved exclusively in the federal or state courts located in Illinois.
 
-Our servers are currently hosted in Illinois, New York, and Arizona. You agree that any conduct illegal under the laws of any of these jurisdictions is prohibited on the Services, regardless of your physical location.
+Our servers are currently hosted in Illinois, New York, and Arizona. One of our hosting provider is based the Netherlands. You agree that any conduct illegal under the laws of any of these jurisdictions is prohibited on the Services, regardless of your physical location.
 
 ## 9. Changes to These Terms
 We may update these Terms from time to time. We will notify you of material changes by posting the updated Terms on the Services or through other reasonable means. Your continued use of the Services after such changes constitutes your acceptance of the revised Terms.
