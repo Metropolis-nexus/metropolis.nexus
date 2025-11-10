@@ -6,7 +6,7 @@ Metropolis Nexus is offered on an "as-is" basis. We reserve the right to modify,
 
 ## 1. Eligibility
 
-You must be at least 18 years of age or the age of majority in your jurisdiction to use the Services. By using the Services, you represent and warrant that you meet this requirement and have the legal capacity to enter into these Terms.
+You must be at least 18 years of age or the age of majority in your jurisdiction to use the Services. You also represent you are not on any denied‑party, sanctions, or similar government list. By using the Services, you represent and warrant that you meet this requirement and have the legal capacity to enter into these Terms.
 
 ## 2. Acceptable Use
 
@@ -28,7 +28,7 @@ You agree to use the Services only for lawful purposes and in compliance with al
 
 We reserve the right to monitor usage and take action, including suspension or termination of access, if we believe these Terms have been violated.
 
-To report vulnerabilities violations of these Terms, contact us via Matrix at @tommy:metropolis.nexus or by email at tommy@metropolis.nexus. We will investigate reports but make no guarantee of response time or action taken.
+To report vulnerabilities or violations of these Terms, contact us via Matrix at @tommy:metropolis.nexus or by email at tommy@metropolis.nexus. We will investigate reports but make no guarantee of response time or action taken.
 
 ## 3. Account Security
 
