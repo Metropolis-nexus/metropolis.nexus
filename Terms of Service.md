@@ -43,7 +43,7 @@ You are responsible for maintaining the confidentiality of your account credenti
 
 **Liability for Sharing**: We are not liable if you grant another user access to Your Content and that user subsequently violates these Terms or infringes upon your rights. You are responsible for controlling access to Your Content through appropriate privacy settings and access controls.
 
-**Copyright; DMCA**: We comply with 17 U.S.C. §512. If you believe content infringes your copyright, send a notice to tommy@metropolis.nexus with the information required by §512(c)(3). We may remove or disable access to the alleged infringing material and, where appropriate, terminate repeat infringers. If your content was removed in error, you may submit a counter‑notification per §512(g). We are not obligated to monitor for infringements but may do so.
+**Copyright; DMCA**: If you believe content infringes your copyright, send a notice to tommy@metropolis.nexus with the information required by §512(c)(3). We may remove or disable access to the alleged infringing material and, where appropriate, terminate repeat infringers. If your content was removed in error, you may submit a counter‑notification per §512(g). We are not obligated to monitor for infringements but may do so.
 
 ## 5. Disclaimer of Warranties
 
