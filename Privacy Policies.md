@@ -37,7 +37,16 @@ Analytics data collected by us is used solely for internal purposes.
 ## Network Security
 We employ Intrusion Prevention Systems, including CrowdSec, Proofpoint ET Threat Protection Telemetry, and ZenArmor. Under certain conditions, these systems may transmit network connection information (e.g., IP addresses, timestamps, protocols, SNI) to the software vendors. We pass packets through these systems without TLS termination, ensuring that the vendors do not have visibility into the content of your encrypted network requests.
 
+Our hosting providers use multiple different upstreams for BGP DDoS protection and may switch between them at their sole discretion. Both our hosting providers and their DDOS protection providers have access to the same network connection information as our Intrusion Prevention Systems.
+
 In exceptional circumstances, such as severe DDoS attacks, we may utilize reverse proxies from providers like Cloudflare for protection. In such cases, TLS termination occurs at the provider's end. We will avoid using such solutions whenever feasible.
+
+If you are concerned about records of your IP address being retained by our hosting or protection providers, we recommend using a VPN or similar privacy-enhancing tools.
+
+## Peer-to-peer connections
+To conserve bandwidth and ensure higher call quality, we enable peer-to-peer voice and video calls by default, where feasible. Where possible, we provide options to configure peer-to-peer settings through the user interface of our Services. Please note that this functionality is not available in all software we utilize. 
+
+If you wish to prevent your IP address from being exposed to your contacts, we recommend using a VPN or similar privacy-enhancing tool.
 
 ## Disk Encryption
 A comprehensive list of our Services and their hosting locations is available on our [status tracker](https://uptime.metropolis.nexus). Systems designated as "Colocated" or "Bare Metal" employ full disk encryption. Where supported, we also enable memory encryption to safeguard disk encryption keys during system operation.
@@ -70,6 +79,9 @@ System logs vary depending on the software in use. We document our system config
 
 ## Children
 The Services are intended for users aged 18 years or older (or the age of majority in your jurisdiction). Minors are not permitted to use the Services.
+
+## COPPA Compliance
+We comply with the Children's Online Privacy Protection Act (COPPA) in the United States. We do not knowingly collect personal information from children under 13 years of age. If we become aware that we have inadvertently collected such information, we will delete it promptly. Parents or guardians who believe their child has provided us with personal information should contact us at tommy@metropolis.nexus to request deletion.
 
 ## Law enforcement and legal requests
 We respond to valid legal processes in jurisdictions where we are subject to the court's authority. We will notify affected users unless legally prohibited or where notification would create a risk of harm.
