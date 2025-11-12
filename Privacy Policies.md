@@ -39,8 +39,6 @@ We employ Intrusion Prevention Systems, including CrowdSec, Proofpoint ET Threat
 
 In exceptional circumstances, such as severe DDoS attacks, we may utilize reverse proxies from providers like Cloudflare for protection. In such cases, TLS termination occurs at the provider's end. We will avoid using such solutions whenever feasible.
 
-If you are concerned about records of your IP address being retained by us or our Intrusion Prevention providers, we recommend using a VPN or similar privacy-enhancing tools.
-
 ## Disk Encryption
 A comprehensive list of our Services and their hosting locations is available on our [status tracker](https://uptime.metropolis.nexus). Systems designated as "Colocated" or "Bare Metal" employ full disk encryption. Where supported, we also enable memory encryption to safeguard disk encryption keys during system operation.
 
